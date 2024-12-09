@@ -22,4 +22,5 @@ urlpatterns = [
     path('', include('contactform.urls')),
     path('api/', include('recruiterform.urls')),
     path('api/homepage/', include('homepage.urls')),
+    path('api/portfoliopage/', include('portfoliopage.urls'))
 ]

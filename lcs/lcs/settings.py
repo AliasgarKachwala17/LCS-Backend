@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'contactform',
     'homepage',
     'recruiterform',
+    'portfoliopage',
+    
 ]
 
 MIDDLEWARE = [
